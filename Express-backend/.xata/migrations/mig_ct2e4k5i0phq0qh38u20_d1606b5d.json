@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e4k5i0phq0qh38u20",
+  "parentID": "mig_ct2e33di0phq0qh38u10",
+  "checksum": "1:d1606b5d758ccca404adc1b9b9b8f57185917a11d6c45dfad342c8bef0abf6f6",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "price",
+          "type": "int"
+        },
+        "table": "properties"
+      }
+    }
+  ]
+}

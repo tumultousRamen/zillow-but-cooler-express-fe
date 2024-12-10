@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e6jti0phq0qh38ue0",
+  "parentID": "mig_ct2e64ti0phq0qh38ud0",
+  "checksum": "1:77ace6fef938b6fd8e7be8ff780f465b3429c99e2254398d575baf6f86ea611e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "property_id",
+          "type": "text"
+        },
+        "table": "escrow"
+      }
+    }
+  ]
+}

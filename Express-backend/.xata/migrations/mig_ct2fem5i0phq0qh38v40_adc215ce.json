@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2fem5i0phq0qh38v40",
+  "parentID": "mig_ct2fej2kt6r2vef2c5vg",
+  "checksum": "1:adc215ceac1ddfa83635f3da4c60d98ef0c65e5a603cf38efa8404386431e67a",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "role",
+          "type": "text"
+        },
+        "table": "users"
+      }
+    }
+  ]
+}

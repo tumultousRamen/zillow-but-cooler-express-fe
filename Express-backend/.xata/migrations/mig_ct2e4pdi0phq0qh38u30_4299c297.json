@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e4pdi0phq0qh38u30",
+  "parentID": "mig_ct2e4k5i0phq0qh38u20",
+  "checksum": "1:4299c297884f3d97cadb93de36a2d7561a8f6165d6d51e94615cbbb61cb51e9c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "address",
+          "type": "text"
+        },
+        "table": "properties"
+      }
+    }
+  ]
+}

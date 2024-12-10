@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e6oakt6r2vef2c5lg",
+  "parentID": "mig_ct2e6jti0phq0qh38ue0",
+  "checksum": "1:53bd4d12401d0ab74ea4dc433ebe4337e8b6096f8fdd108fd5e61c1663e063b7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "buyer_id",
+          "type": "text"
+        },
+        "table": "escrow"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e5fdi0phq0qh38u9g",
+  "parentID": "mig_ct2e53ti0phq0qh38u50",
+  "checksum": "1:a8853de299a23d2f2878fa6f6e8a492f3c24f71451e1e408da8dab8f059cab17",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "seller_id",
+          "type": "text"
+        },
+        "table": "properties"
+      }
+    }
+  ]
+}

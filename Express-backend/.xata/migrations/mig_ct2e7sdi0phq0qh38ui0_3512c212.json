@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e7sdi0phq0qh38ui0",
+  "parentID": "mig_ct2e7l5i0phq0qh38uh0",
+  "checksum": "1:3512c2123b5074f30c01c454b7a94a510197897540d9f6980bcedcc86d9aa11f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "status",
+          "type": "text"
+        },
+        "table": "escrow"
+      }
+    }
+  ]
+}

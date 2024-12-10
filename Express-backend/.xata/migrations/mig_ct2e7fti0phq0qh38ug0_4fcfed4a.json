@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e7fti0phq0qh38ug0",
+  "parentID": "mig_ct2e7b2kt6r2vef2c5ng",
+  "checksum": "1:4fcfed4a08765209595f79a073c02befea2f3cd941f5acfa9b55e38355011b77",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "payment_on_hold",
+          "type": "int"
+        },
+        "table": "escrow"
+      }
+    }
+  ]
+}

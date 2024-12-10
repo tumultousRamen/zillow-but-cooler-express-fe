@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Sushant-Kamble-s-workspace-7m8rvb.us-west-2.xata.sh/db/homekey",
+  "codegen": {
+    "output": "src/xata.ts",
+    "moduleType": "esm"
+  }
+}

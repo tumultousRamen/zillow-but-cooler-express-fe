@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e7l5i0phq0qh38uh0",
+  "parentID": "mig_ct2e7fti0phq0qh38ug0",
+  "checksum": "1:9d390d9a27afc83ba0d94fcf0a6fab418006ca9ba5dc5b24d37e9e76235d31a4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "payment_to_seller",
+          "type": "int"
+        },
+        "table": "escrow"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_ct2e60di0phq0qh38uc0",
+  "parentID": "mig_ct2e5jli0phq0qh38uag",
+  "checksum": "1:96bd2fb80c9b1be98d6e6d576676bac48152bb2bb1d4a7a73df201ffbcc91031",
+  "operations": [
+    {
+      "addTable": {
+        "table": "escrow"
+      }
+    }
+  ]
+}

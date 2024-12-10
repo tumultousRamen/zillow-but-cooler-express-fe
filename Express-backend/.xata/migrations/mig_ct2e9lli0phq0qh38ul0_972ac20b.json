@@ -1,0 +1,16 @@
+{
+  "id": "mig_ct2e9lli0phq0qh38ul0",
+  "parentID": "mig_ct2e9d5i0phq0qh38uk0",
+  "checksum": "1:972ac20b95141c649b55461aedd4551a0eff3eb10468802d5ecebc2003b267e4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "property_id",
+          "type": "text"
+        },
+        "table": "documents"
+      }
+    }
+  ]
+}

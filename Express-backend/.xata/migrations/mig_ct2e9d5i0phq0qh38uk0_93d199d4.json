@@ -1,0 +1,19 @@
+{
+  "id": "mig_ct2e9d5i0phq0qh38uk0",
+  "parentID": "mig_ct2e8idi0phq0qh38uj0",
+  "checksum": "1:93d199d423d0ad970b0956853f20cd83646f165be366e9018a89dc83889a3acc",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "file",
+          "type": "file",
+          "file": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "documents"
+      }
+    }
+  ]
+}
